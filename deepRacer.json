@@ -1,0 +1,13 @@
+{
+  "apps": [
+    {
+      "name": "DeepRacer",
+      "script": "npm start",
+      "version": "1.0.0",
+      "env": {
+        "NODE_ENV": "development",
+        "PORT": "8005"
+      }
+    }
+  ]
+}
