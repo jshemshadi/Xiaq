@@ -20,7 +20,7 @@ module.exports = (devMode) => {
 
     plugins.push(
       new WebpackBuildNotifierPlugin({
-        title: "DeepRacer",
+        title: "Xiaq",
       })
     );
   } else {

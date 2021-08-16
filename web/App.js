@@ -10,7 +10,7 @@ import { create } from "jss";
 import { StylesProvider, jssPreset } from "@material-ui/core/styles";
 
 import { Route, Switch } from "react-router-dom";
-import DeepRacer from "./screens/DeepRacer";
+import Xiaq from "./screens/Xiaq";
 
 const jss = create({ plugins: [...jssPreset().plugins] });
 
@@ -34,7 +34,7 @@ const Main = ({ history, store }) => {
           <Provider store={store}>
             <ConnectedRouter history={history}>
               <Switch>
-                <Route exact path="/" component={DeepRacer} />
+                <Route exact path="/" component={Xiaq} />
               </Switch>
             </ConnectedRouter>
           </Provider>

@@ -17,7 +17,7 @@ const useStyles = makeStyles((theme) => ({
   root: {},
 }));
 
-export default function DeepRacer() {
+export default function Xiaq() {
   const classes = useStyles();
 
   return (

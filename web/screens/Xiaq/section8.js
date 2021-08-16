@@ -24,15 +24,15 @@ export default function Section_8() {
         <p>
           Explore the portfolio of educational devices designed for developers
           of all skill levels to learn ML in fun, practical ways. Get started
-          with reinforcement learning with AWS DeepRacer, learn how to build
-          deep learning-based computer vision apps with AWS DeepLens, and
-          express your creativity through generative AI with AWS DeepComposer.
+          with reinforcement learning with Xiaq, learn how to build
+          deep learning-based computer vision apps with DeepLens, and
+          express your creativity through generative AI with DeepComposer.
         </p>
       </Grid>
       <Grid item xl={6} lg={6} md={6} sm={12} xs={12}>
         <img src="../../sources/Pic/img_17.png" style={{ width: "80%" }} />
         <h3>
-          Get rolling with AWS DeepRacer in a free 90 minute e-learning course.
+          Get rolling with Xiaq in a free 90 minute e-learning course.
         </h3>
         <Grid container style={{ display: "flex" }}>
           <Grid

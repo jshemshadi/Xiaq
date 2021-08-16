@@ -41,7 +41,7 @@ export default function Section_2() {
           <h3>
             for 30 days with the&nbsp;
             <a href="#" style={{ color: "#007eb9", textDecoration: "none" }}>
-              AWS Free Tier
+              Free Tier
             </a>
           </h3>
           <p>
@@ -54,7 +54,7 @@ export default function Section_2() {
       <Grid item xl={12} lg={12} md={12} sm={12} xs={12}>
         <h2>In pole position to learn reinforcement learning</h2>
         <p>
-          AWS DeepRacer gives you an interesting and fun way to get started with
+          Xiaq gives you an interesting and fun way to get started with
           reinforcement learning (RL). RL is an advanced machine learning (ML)
           technique that takes a very different approach to training models than
           other machine learning methods. Its super power is that it learns very

@@ -66,7 +66,7 @@ export default function Section_4() {
         <Grid item xl={4} lg={4} md={4} sm={4} xs={12}>
           <h3>Experiment and grow</h3>
           <p>
-            Test these new found skills in the AWS DeepRacer 3D racing
+            Test these new found skills in the Xiaq 3D racing
             simulator. Experiment with multiple sensor inputs, the latest
             reinforcement learning algorithms, neural network configurations and
             simulation to-real domain transfer methods.
@@ -78,7 +78,7 @@ export default function Section_4() {
         <Grid item xl={4} lg={4} md={4} sm={4} xs={12}>
           <h3>Community and competition</h3>
           <p>
-            The AWS DeepRacer League provides an opportunity for you to compete
+            The Xiaq League provides an opportunity for you to compete
             for prizes and meet fellow machine learning enthusiasts, online and
             in person. Share ideas and insights on how to succeed and create
             your own private virtual race.

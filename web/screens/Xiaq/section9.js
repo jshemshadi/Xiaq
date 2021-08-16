@@ -24,8 +24,8 @@ export default function Section_9() {
         style={{ border: "1px solid #d5dbdb", display: "flex" }}
       >
         <Grid item xl={7} lg={7} md={7} sm={7} xs={7}>
-          <p>GET STARTED WITH AWS</p>
-          <p>Learn how to start using AWS in minutes</p>
+          <p>GET STARTED WITH </p>
+          <p>Learn how to start using in minutes</p>
         </Grid>
         <Grid item xl={5} lg={5} md={5} sm={5} xs={5}>
           <img src="../../sources/Pic/img_14.png" style={{ width: "80%" }} />
@@ -41,8 +41,8 @@ export default function Section_9() {
         style={{ border: "1px solid #d5dbdb", display: "flex" }}
       >
         <Grid item xl={7} lg={7} md={7} sm={7} xs={7}>
-          <p>AWS FREE TIER</p>
-          <p>Gain free, hands-on experience with AWS for 12 months</p>
+          <p>FREE TIER</p>
+          <p>Gain free, hands-on experience with for 12 months</p>
         </Grid>
         <Grid item xl={5} lg={5} md={5} sm={5} xs={5}>
           <img src="../../sources/Pic/img_15.png" style={{ width: "80%" }} />
@@ -58,10 +58,10 @@ export default function Section_9() {
         style={{ border: "1px solid #d5dbdb", display: "flex" }}
       >
         <Grid item xl={7} lg={7} md={7} sm={7} xs={7}>
-          <p>FREE AWS TRAINING</p>
+          <p>FREE TRAINING</p>
           <p>
             Access 500+ free digital courses across roles, skill levels, and
-            domains to build your AWS Cloud skills
+            domains to build your Cloud skills
           </p>
         </Grid>
         <Grid item xl={5} lg={5} md={5} sm={5} xs={5}>

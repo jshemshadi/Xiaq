@@ -1,7 +1,7 @@
 {
   "apps": [
     {
-      "name": "DeepRacer",
+      "name": "xiaq",
       "script": "npm start",
       "version": "1.0.0",
       "env": {

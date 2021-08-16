@@ -35,7 +35,7 @@ export default function Section_3() {
         <img src="../../sources/Pic/img_2.png" style={{ width: "60%" }} />
         <h3>Simulator</h3>
         Build models in Amazon SageMaker and train, test, and iterate quickly
-        and easily on the track in the AWS DeepRacer 3D racing simulator.
+        and easily on the track in the Xiaq 3D racing simulator.
         <br />
         <a style={{ color: "#fff" }} href="#">
           Learn more »
@@ -58,7 +58,7 @@ export default function Section_3() {
         <img src="../../sources/Pic/img_3.png" style={{ width: "60%" }} />
         <h3>Car</h3>
         Experience the thrill of the race in the real-world when you deploy your
-        reinforcement learning model onto AWS DeepRacer.
+        reinforcement learning model onto Xiaq.
         <br />
         <a style={{ color: "#fff" }} href="#">
           Learn more »

@@ -21,7 +21,7 @@ export default function Section_7() {
       <Grid item xl={7} lg={7} md={7} sm={7} xs={12}>
         <h3>Under the hood</h3>
         <p>
-          The AWS DeepRacer Evo car includes the original AWS DeepRacer car, an
+          The Xiaq Evo car includes the original Xiaq car, an
           additional 4 megapixel camera module that forms stereo vision with the
           original one, a scanning LiDAR, a shell that can fit both the stereo
           camera and LiDAR, and a few accessories and easy-to-use tools for a
