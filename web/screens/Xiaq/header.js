@@ -5,6 +5,9 @@ import Grid from "@material-ui/core/Grid";
 const useStyles = makeStyles((theme) => ({
   header: {
     color: "#333",
+    padding: "0 10%",
+    display: "flex",
+    alignItems: "center",
   },
 }));
 
@@ -13,8 +16,56 @@ export default function Footer() {
 
   return (
     <Grid container spacing={3} className={classes.header}>
-      <Grid item xl={12} lg={12} md={12} sm={12} xs={12}>
-        HEADER
+      <Grid item>
+        <h4>
+          <a href="#" style={{ textDecoration: "none" }}>
+            Xiaq
+          </a>
+        </h4>
+      </Grid>
+      <Grid item>
+        <Grid container spacing={3}>
+          <Grid item>
+            <a href="#" style={{ textDecoration: "none" }}>
+              Overview
+            </a>
+          </Grid>
+          <Grid item>
+            <a href="#" style={{ textDecoration: "none" }}>
+              League
+            </a>
+          </Grid>
+          <Grid item>
+            <a href="#" style={{ textDecoration: "none" }}>
+              Enterprise Events
+            </a>
+          </Grid>
+          <Grid item>
+            <a href="#" style={{ textDecoration: "none" }}>
+              Racing Tips
+            </a>
+          </Grid>
+          <Grid item>
+            <a href="#" style={{ textDecoration: "none" }}>
+              Getting Started
+            </a>
+          </Grid>
+          <Grid item>
+            <a href="#" style={{ textDecoration: "none" }}>
+              Pricing
+            </a>
+          </Grid>
+          <Grid item>
+            <a href="#" style={{ textDecoration: "none" }}>
+              FAQs
+            </a>
+          </Grid>
+          <Grid item>
+            <a href="#" style={{ textDecoration: "none" }}>
+              Robotics Projects
+            </a>
+          </Grid>
+        </Grid>
       </Grid>
     </Grid>
   );
